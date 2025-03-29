@@ -29,5 +29,7 @@ def create_draf(landmarks_data):
     ax.set_ylabel('axis y')
     ax.set_zlabel('axis z')
     ax.set_title('landmark data graph')
-
     plt.show()
+
+def simple_analysis(landmarks_data):
+    pass
