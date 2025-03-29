@@ -1,0 +1,1881 @@
+{
+    "Head_end_jnt": [
+        "Head_sk"
+    ],
+    "Head_sk": [
+        "Head_sk_orientConstraint1",
+        "Head_sk_orientConstraint1",
+        "Neck_03_sk",
+        "Head_sk_pointConstraint1",
+        "Head_sk_pointConstraint1",
+        "Head_sk_pointConstraint1",
+        "Head_sk_orientConstraint1",
+        "Head_sk_orientConstraint1",
+        "Head_sk_orientConstraint1",
+        "Upper_Mouth_sk",
+        "Head_end_jnt",
+        "Jaw_01_jnt",
+        "eye_Left_sk",
+        "eye_Right_sk",
+        "sk_faceBase",
+        "Head_sk_orientConstraint1",
+        "Head_sk_pointConstraint1",
+        "Head_sk_pointConstraint1",
+        "Head_sk_pointConstraint1",
+        "Head_sk_orientConstraint1",
+        "Ctrl_lowerMouth_jawAim_GRP_aimConstraint1"
+    ],
+    "Jaw_01_jnt": [
+        "Ctrl_tongue_01_offset_GRP_parentConstraint1",
+        "Jaw_01_jnt_parentConstraint1",
+        "Ctrl_tongue_01_offset_GRP_parentConstraint1",
+        "Head_sk",
+        "Ctrl_tongue_01_offset_GRP_parentConstraint1",
+        "Jaw_01_jnt_parentConstraint1",
+        "Jaw_01_jnt_parentConstraint1",
+        "Jaw_01_jnt_parentConstraint1",
+        "Ctrl_tongue_01_offset_GRP_parentConstraint1",
+        "Jaw_01_jnt_parentConstraint1",
+        "Jaw_01_jnt_parentConstraint1",
+        "Jaw_01_jnt_parentConstraint1",
+        "Ctrl_tongue_01_offset_GRP_parentConstraint1",
+        "Jaw_02_jnt",
+        "Ctrl_tongue_01_offset_GRP_parentConstraint1",
+        "Jaw_01_jnt_parentConstraint1",
+        "Jaw_01_jnt_parentConstraint1",
+        "Ctrl_tongue_01_offset_GRP_parentConstraint1",
+        "Jaw_01_jnt_parentConstraint1",
+        "Ctrl_tongue_01_offset_GRP_parentConstraint1",
+        "Jaw_01_jnt_parentConstraint1",
+        "Ctrl_tongue_01_offset_GRP_parentConstraint1",
+        "Ctrl_tongue_01_offset_GRP_parentConstraint1"
+    ],
+    "Jaw_02_jnt": [
+        "Jaw_01_jnt",
+        "Tongue_01_sk",
+        "Lower_Mouth_sk"
+    ],
+    "Lower_Mouth_sk": [
+        "Jaw_02_jnt"
+    ],
+    "Neck_01_sk": [
+        "Neck_01_sk_orientConstraint1",
+        "Neck_01_sk_orientConstraint1",
+        "Spine_end_sk",
+        "Neck_01_sk_pointConstraint1",
+        "Neck_01_sk_pointConstraint1",
+        "Neck_01_sk_pointConstraint1",
+        "Neck_01_sk_orientConstraint1",
+        "Neck_01_sk_orientConstraint1",
+        "Neck_01_sk_orientConstraint1",
+        "Neck_02_sk",
+        "Neck_01_sk_orientConstraint1",
+        "Neck_01_sk_pointConstraint1",
+        "Neck_01_sk_pointConstraint1",
+        "Neck_01_sk_pointConstraint1",
+        "Neck_01_sk_orientConstraint1"
+    ],
+    "Neck_02_sk": [
+        "Neck_02_sk_orientConstraint1",
+        "Neck_02_sk_orientConstraint1",
+        "Neck_01_sk",
+        "Neck_02_sk_pointConstraint1",
+        "Neck_02_sk_pointConstraint1",
+        "Neck_02_sk_pointConstraint1",
+        "Neck_02_sk_orientConstraint1",
+        "Neck_02_sk_orientConstraint1",
+        "Neck_02_sk_orientConstraint1",
+        "Neck_03_sk",
+        "Neck_02_sk_orientConstraint1",
+        "Neck_02_sk_pointConstraint1",
+        "Neck_02_sk_pointConstraint1",
+        "Neck_02_sk_pointConstraint1",
+        "Neck_02_sk_orientConstraint1"
+    ],
+    "Neck_03_sk": [
+        "Neck_03_sk_orientConstraint1",
+        "Neck_03_sk_orientConstraint1",
+        "Neck_02_sk",
+        "Neck_03_sk_pointConstraint1",
+        "Neck_03_sk_pointConstraint1",
+        "Neck_03_sk_pointConstraint1",
+        "Neck_03_sk_orientConstraint1",
+        "Neck_03_sk_orientConstraint1",
+        "Neck_03_sk_orientConstraint1",
+        "Head_sk",
+        "Neck_03_sk_orientConstraint1",
+        "Neck_03_sk_pointConstraint1",
+        "Neck_03_sk_pointConstraint1",
+        "Neck_03_sk_pointConstraint1",
+        "Neck_03_sk_orientConstraint1"
+    ],
+    "Root": [
+        "Spine_end_sk"
+    ],
+    "Spine_end_sk": [
+        "Spine_end_sk_parentConstraint1",
+        "Root",
+        "Spine_end_sk_parentConstraint1",
+        "Spine_end_sk_parentConstraint1",
+        "Spine_end_sk_parentConstraint1",
+        "Spine_end_sk_parentConstraint1",
+        "Spine_end_sk_parentConstraint1",
+        "Spine_end_sk_parentConstraint1",
+        "Neck_01_sk",
+        "Spine_end_sk_parentConstraint1",
+        "Spine_end_sk_parentConstraint1",
+        "Spine_end_sk_parentConstraint1",
+        "Spine_end_sk_parentConstraint1"
+    ],
+    "Tongue_01_sk": [
+        "Tongue_01_sk_orientConstraint1",
+        "Tongue_01_sk_orientConstraint1",
+        "Jaw_02_jnt",
+        "Tongue_02_sk",
+        "Ctrl_tongue_01",
+        "Tongue_01_sk_pointConstraint1",
+        "Tongue_01_sk_pointConstraint1",
+        "Tongue_01_sk_pointConstraint1",
+        "Tongue_01_sk_orientConstraint1",
+        "Tongue_01_sk_orientConstraint1",
+        "Tongue_01_sk_orientConstraint1",
+        "Tongue_01_sk_orientConstraint1",
+        "Tongue_01_sk_pointConstraint1",
+        "Tongue_01_sk_pointConstraint1",
+        "Tongue_01_sk_pointConstraint1",
+        "Tongue_01_sk_orientConstraint1"
+    ],
+    "Tongue_02_sk": [
+        "Tongue_02_sk_orientConstraint1",
+        "Tongue_02_sk_orientConstraint1",
+        "Tongue_01_sk",
+        "Tongue_03_sk",
+        "Ctrl_tongue_02",
+        "Tongue_02_sk_pointConstraint1",
+        "Tongue_02_sk_pointConstraint1",
+        "Tongue_02_sk_pointConstraint1",
+        "Tongue_02_sk_orientConstraint1",
+        "Tongue_02_sk_orientConstraint1",
+        "Tongue_02_sk_orientConstraint1",
+        "Tongue_02_sk_orientConstraint1",
+        "Tongue_02_sk_pointConstraint1",
+        "Tongue_02_sk_pointConstraint1",
+        "Tongue_02_sk_pointConstraint1",
+        "Tongue_02_sk_orientConstraint1"
+    ],
+    "Tongue_03_sk": [
+        "Tongue_03_sk_orientConstraint1",
+        "Tongue_03_sk_orientConstraint1",
+        "Tongue_02_sk",
+        "Tongue_04_sk",
+        "Ctrl_tongue_03",
+        "Tongue_03_sk_pointConstraint1",
+        "Tongue_03_sk_pointConstraint1",
+        "Tongue_03_sk_pointConstraint1",
+        "Tongue_03_sk_orientConstraint1",
+        "Tongue_03_sk_orientConstraint1",
+        "Tongue_03_sk_orientConstraint1",
+        "Tongue_03_sk_orientConstraint1",
+        "Tongue_03_sk_pointConstraint1",
+        "Tongue_03_sk_pointConstraint1",
+        "Tongue_03_sk_pointConstraint1",
+        "Tongue_03_sk_orientConstraint1"
+    ],
+    "Tongue_04_sk": [
+        "Tongue_04_sk_orientConstraint1",
+        "Tongue_04_sk_orientConstraint1",
+        "Tongue_03_sk",
+        "Tongue_05_sk",
+        "Ctrl_tongue_04",
+        "Tongue_04_sk_pointConstraint1",
+        "Tongue_04_sk_pointConstraint1",
+        "Tongue_04_sk_pointConstraint1",
+        "Tongue_04_sk_orientConstraint1",
+        "Tongue_04_sk_orientConstraint1",
+        "Tongue_04_sk_orientConstraint1",
+        "Tongue_04_sk_orientConstraint1",
+        "Tongue_04_sk_pointConstraint1",
+        "Tongue_04_sk_pointConstraint1",
+        "Tongue_04_sk_pointConstraint1",
+        "Tongue_04_sk_orientConstraint1"
+    ],
+    "Tongue_05_sk": [
+        "Tongue_05_sk_orientConstraint1",
+        "Tongue_05_sk_orientConstraint1",
+        "Tongue_04_sk",
+        "Tongue_end_jnt",
+        "Ctrl_tongue_05",
+        "Tongue_05_sk_pointConstraint1",
+        "Tongue_05_sk_pointConstraint1",
+        "Tongue_05_sk_pointConstraint1",
+        "Tongue_05_sk_orientConstraint1",
+        "Tongue_05_sk_orientConstraint1",
+        "Tongue_05_sk_orientConstraint1",
+        "Tongue_05_sk_orientConstraint1",
+        "Tongue_05_sk_pointConstraint1",
+        "Tongue_05_sk_pointConstraint1",
+        "Tongue_05_sk_pointConstraint1",
+        "Tongue_05_sk_orientConstraint1"
+    ],
+    "Tongue_end_jnt": [
+        "Tongue_05_sk"
+    ],
+    "Upper_Mouth_sk": [
+        "Upper_Mouth_sk_parentConstraint1",
+        "Head_sk",
+        "Upper_Mouth_sk_parentConstraint1",
+        "Upper_Mouth_sk_parentConstraint1",
+        "Upper_Mouth_sk_parentConstraint1",
+        "Upper_Mouth_sk_parentConstraint1",
+        "Upper_Mouth_sk_parentConstraint1",
+        "Upper_Mouth_sk_parentConstraint1",
+        "Upper_Mouth_sk_parentConstraint1",
+        "Upper_Mouth_sk_parentConstraint1",
+        "Upper_Mouth_sk_parentConstraint1",
+        "Upper_Mouth_sk_parentConstraint1"
+    ],
+    "eye_Left_sk": [
+        "eye_Left_sk_aimConstraint1",
+        "Head_sk",
+        "eye_Left_sk_aimConstraint1",
+        "eye_Left_sk_aimConstraint1",
+        "eye_Left_sk_aimConstraint1",
+        "eye_Left_sk_aimConstraint1",
+        "eye_Left_sk_aimConstraint1",
+        "eye_Left_sk_aimConstraint1",
+        "eye_Left_sk_aimConstraint1",
+        "eye_Left_sk_aimConstraint1",
+        "eye_Left_sk_aimConstraint1"
+    ],
+    "eye_Right_sk": [
+        "eye_Right_sk_aimConstraint1",
+        "Head_sk",
+        "eye_Right_sk_aimConstraint1",
+        "eye_Right_sk_aimConstraint1",
+        "eye_Right_sk_aimConstraint1",
+        "eye_Right_sk_aimConstraint1",
+        "eye_Right_sk_aimConstraint1",
+        "eye_Right_sk_aimConstraint1",
+        "eye_Right_sk_aimConstraint1",
+        "eye_Right_sk_aimConstraint1",
+        "eye_Right_sk_aimConstraint1"
+    ],
+    "j_Lacrima_L_0": [
+        "ctl_global",
+        "ctl_global",
+        "ctl_global"
+    ],
+    "j_Lacrima_L_1": [
+        "ctl_global",
+        "ctl_global",
+        "ctl_global"
+    ],
+    "j_Lacrima_L_2": [
+        "ctl_global",
+        "ctl_global",
+        "ctl_global"
+    ],
+    "j_Lacrima_L_3": [
+        "ctl_global",
+        "ctl_global",
+        "ctl_global"
+    ],
+    "j_Lacrima_L_4": [
+        "ctl_global",
+        "ctl_global",
+        "ctl_global"
+    ],
+    "j_Lacrima_L_5": [
+        "ctl_global",
+        "ctl_global",
+        "ctl_global"
+    ],
+    "j_Lacrima_R_0": [
+        "ctl_global",
+        "ctl_global",
+        "ctl_global"
+    ],
+    "j_Lacrima_R_1": [
+        "ctl_global",
+        "ctl_global",
+        "ctl_global"
+    ],
+    "j_Lacrima_R_2": [
+        "ctl_global",
+        "ctl_global",
+        "ctl_global"
+    ],
+    "j_Lacrima_R_3": [
+        "ctl_global",
+        "ctl_global",
+        "ctl_global"
+    ],
+    "j_Lacrima_R_4": [
+        "ctl_global",
+        "ctl_global",
+        "ctl_global"
+    ],
+    "j_Lacrima_R_5": [
+        "ctl_global",
+        "ctl_global",
+        "ctl_global"
+    ],
+    "j_Lacrima_R_6": [
+        "ctl_global",
+        "ctl_global",
+        "ctl_global"
+    ],
+    "j_Lashes_Dn_L_0": [
+        "ctl_global",
+        "ctl_global",
+        "ctl_global"
+    ],
+    "j_Lashes_Dn_L_1": [
+        "ctl_global",
+        "ctl_global",
+        "ctl_global"
+    ],
+    "j_Lashes_Dn_L_2": [
+        "ctl_global",
+        "ctl_global",
+        "ctl_global"
+    ],
+    "j_Lashes_Dn_L_3": [
+        "ctl_global",
+        "ctl_global",
+        "ctl_global"
+    ],
+    "j_Lashes_Dn_L_4": [
+        "ctl_global",
+        "ctl_global",
+        "ctl_global"
+    ],
+    "j_Lashes_Dn_L_5": [
+        "ctl_global",
+        "ctl_global",
+        "ctl_global"
+    ],
+    "j_Lashes_Dn_L_6": [
+        "ctl_global",
+        "ctl_global",
+        "ctl_global"
+    ],
+    "j_Lashes_Dn_L_7": [
+        "ctl_global",
+        "ctl_global",
+        "ctl_global"
+    ],
+    "j_Lashes_Dn_L_8": [
+        "ctl_global",
+        "ctl_global",
+        "ctl_global"
+    ],
+    "j_Lashes_Dn_L_9": [
+        "ctl_global",
+        "ctl_global",
+        "ctl_global"
+    ],
+    "j_Lashes_Dn_L_10": [
+        "ctl_global",
+        "ctl_global",
+        "ctl_global"
+    ],
+    "j_Lashes_Dn_L_11": [
+        "ctl_global",
+        "ctl_global",
+        "ctl_global"
+    ],
+    "j_Lashes_Dn_L_12": [
+        "ctl_global",
+        "ctl_global",
+        "ctl_global"
+    ],
+    "j_Lashes_Dn_R_0": [
+        "ctl_global",
+        "ctl_global",
+        "ctl_global"
+    ],
+    "j_Lashes_Dn_R_1": [
+        "ctl_global",
+        "ctl_global",
+        "ctl_global"
+    ],
+    "j_Lashes_Dn_R_2": [
+        "ctl_global",
+        "ctl_global",
+        "ctl_global"
+    ],
+    "j_Lashes_Dn_R_3": [
+        "ctl_global",
+        "ctl_global",
+        "ctl_global"
+    ],
+    "j_Lashes_Dn_R_4": [
+        "ctl_global",
+        "ctl_global",
+        "ctl_global"
+    ],
+    "j_Lashes_Dn_R_5": [
+        "ctl_global",
+        "ctl_global",
+        "ctl_global"
+    ],
+    "j_Lashes_Dn_R_6": [
+        "ctl_global",
+        "ctl_global",
+        "ctl_global"
+    ],
+    "j_Lashes_Dn_R_7": [
+        "ctl_global",
+        "ctl_global",
+        "ctl_global"
+    ],
+    "j_Lashes_Dn_R_8": [
+        "ctl_global",
+        "ctl_global",
+        "ctl_global"
+    ],
+    "j_Lashes_Dn_R_9": [
+        "ctl_global",
+        "ctl_global",
+        "ctl_global"
+    ],
+    "j_Lashes_Dn_R_10": [
+        "ctl_global",
+        "ctl_global",
+        "ctl_global"
+    ],
+    "j_Lashes_Dn_R_11": [
+        "ctl_global",
+        "ctl_global",
+        "ctl_global"
+    ],
+    "j_Lashes_Dn_R_12": [
+        "ctl_global",
+        "ctl_global",
+        "ctl_global"
+    ],
+    "j_Lashes_Dn_R_13": [
+        "ctl_global",
+        "ctl_global",
+        "ctl_global"
+    ],
+    "j_Lashes_Top_L_0": [
+        "ctl_global",
+        "ctl_global",
+        "ctl_global"
+    ],
+    "j_Lashes_Top_L_1": [
+        "ctl_global",
+        "ctl_global",
+        "ctl_global"
+    ],
+    "j_Lashes_Top_L_2": [
+        "ctl_global",
+        "ctl_global",
+        "ctl_global"
+    ],
+    "j_Lashes_Top_L_3": [
+        "ctl_global",
+        "ctl_global",
+        "ctl_global"
+    ],
+    "j_Lashes_Top_L_4": [
+        "ctl_global",
+        "ctl_global",
+        "ctl_global"
+    ],
+    "j_Lashes_Top_L_5": [
+        "ctl_global",
+        "ctl_global",
+        "ctl_global"
+    ],
+    "j_Lashes_Top_L_6": [
+        "ctl_global",
+        "ctl_global",
+        "ctl_global"
+    ],
+    "j_Lashes_Top_L_7": [
+        "ctl_global",
+        "ctl_global",
+        "ctl_global"
+    ],
+    "j_Lashes_Top_L_8": [
+        "ctl_global",
+        "ctl_global",
+        "ctl_global"
+    ],
+    "j_Lashes_Top_L_9": [
+        "ctl_global",
+        "ctl_global",
+        "ctl_global"
+    ],
+    "j_Lashes_Top_L_10": [
+        "ctl_global",
+        "ctl_global",
+        "ctl_global"
+    ],
+    "j_Lashes_Top_L_11": [
+        "ctl_global",
+        "ctl_global",
+        "ctl_global"
+    ],
+    "j_Lashes_Top_L_12": [
+        "ctl_global",
+        "ctl_global",
+        "ctl_global"
+    ],
+    "j_Lashes_Top_L_13": [
+        "ctl_global",
+        "ctl_global",
+        "ctl_global"
+    ],
+    "j_Lashes_Top_L_14": [
+        "ctl_global",
+        "ctl_global",
+        "ctl_global"
+    ],
+    "j_Lashes_Top_R_0": [
+        "ctl_global",
+        "ctl_global",
+        "ctl_global"
+    ],
+    "j_Lashes_Top_R_1": [
+        "ctl_global",
+        "ctl_global",
+        "ctl_global"
+    ],
+    "j_Lashes_Top_R_2": [
+        "ctl_global",
+        "ctl_global",
+        "ctl_global"
+    ],
+    "j_Lashes_Top_R_3": [
+        "ctl_global",
+        "ctl_global",
+        "ctl_global"
+    ],
+    "j_Lashes_Top_R_4": [
+        "ctl_global",
+        "ctl_global",
+        "ctl_global"
+    ],
+    "j_Lashes_Top_R_5": [
+        "ctl_global",
+        "ctl_global",
+        "ctl_global"
+    ],
+    "j_Lashes_Top_R_6": [
+        "ctl_global",
+        "ctl_global",
+        "ctl_global"
+    ],
+    "j_Lashes_Top_R_7": [
+        "ctl_global",
+        "ctl_global",
+        "ctl_global"
+    ],
+    "j_Lashes_Top_R_8": [
+        "ctl_global",
+        "ctl_global",
+        "ctl_global"
+    ],
+    "j_Lashes_Top_R_9": [
+        "ctl_global",
+        "ctl_global",
+        "ctl_global"
+    ],
+    "j_Lashes_Top_R_10": [
+        "ctl_global",
+        "ctl_global",
+        "ctl_global"
+    ],
+    "j_Lashes_Top_R_11": [
+        "ctl_global",
+        "ctl_global",
+        "ctl_global"
+    ],
+    "j_Lashes_Top_R_12": [
+        "ctl_global",
+        "ctl_global",
+        "ctl_global"
+    ],
+    "j_Lashes_Top_R_13": [
+        "ctl_global",
+        "ctl_global",
+        "ctl_global"
+    ],
+    "j_Occlusion_L_0": [
+        "ctl_global",
+        "ctl_global",
+        "ctl_global"
+    ],
+    "j_Occlusion_L_1": [
+        "ctl_global",
+        "ctl_global",
+        "ctl_global"
+    ],
+    "j_Occlusion_L_2": [
+        "ctl_global",
+        "ctl_global",
+        "ctl_global"
+    ],
+    "j_Occlusion_L_3": [
+        "ctl_global",
+        "ctl_global",
+        "ctl_global"
+    ],
+    "j_Occlusion_L_4": [
+        "ctl_global",
+        "ctl_global",
+        "ctl_global"
+    ],
+    "j_Occlusion_L_5": [
+        "ctl_global",
+        "ctl_global",
+        "ctl_global"
+    ],
+    "j_Occlusion_L_6": [
+        "ctl_global",
+        "ctl_global",
+        "ctl_global"
+    ],
+    "j_Occlusion_L_7": [
+        "ctl_global",
+        "ctl_global",
+        "ctl_global"
+    ],
+    "j_Occlusion_L_8": [
+        "ctl_global",
+        "ctl_global",
+        "ctl_global"
+    ],
+    "j_Occlusion_L_9": [
+        "ctl_global",
+        "ctl_global",
+        "ctl_global"
+    ],
+    "j_Occlusion_L_10": [
+        "ctl_global",
+        "ctl_global",
+        "ctl_global"
+    ],
+    "j_Occlusion_L_11": [
+        "ctl_global",
+        "ctl_global",
+        "ctl_global"
+    ],
+    "j_Occlusion_L_12": [
+        "ctl_global",
+        "ctl_global",
+        "ctl_global"
+    ],
+    "j_Occlusion_L_13": [
+        "ctl_global",
+        "ctl_global",
+        "ctl_global"
+    ],
+    "j_Occlusion_L_14": [
+        "ctl_global",
+        "ctl_global",
+        "ctl_global"
+    ],
+    "j_Occlusion_L_15": [
+        "ctl_global",
+        "ctl_global",
+        "ctl_global"
+    ],
+    "j_Occlusion_L_16": [
+        "ctl_global",
+        "ctl_global",
+        "ctl_global"
+    ],
+    "j_Occlusion_L_17": [
+        "ctl_global",
+        "ctl_global",
+        "ctl_global"
+    ],
+    "j_Occlusion_L_18": [
+        "ctl_global",
+        "ctl_global",
+        "ctl_global"
+    ],
+    "j_Occlusion_L_19": [
+        "ctl_global",
+        "ctl_global",
+        "ctl_global"
+    ],
+    "j_Occlusion_L_20": [
+        "ctl_global",
+        "ctl_global",
+        "ctl_global"
+    ],
+    "j_Occlusion_L_21": [
+        "ctl_global",
+        "ctl_global",
+        "ctl_global"
+    ],
+    "j_Occlusion_L_22": [
+        "ctl_global",
+        "ctl_global",
+        "ctl_global"
+    ],
+    "j_Occlusion_L_23": [
+        "ctl_global",
+        "ctl_global",
+        "ctl_global"
+    ],
+    "j_Occlusion_L_24": [
+        "ctl_global",
+        "ctl_global",
+        "ctl_global"
+    ],
+    "j_Occlusion_L_25": [
+        "ctl_global",
+        "ctl_global",
+        "ctl_global"
+    ],
+    "j_Occlusion_L_26": [
+        "ctl_global",
+        "ctl_global",
+        "ctl_global"
+    ],
+    "j_Occlusion_L_27": [
+        "ctl_global",
+        "ctl_global",
+        "ctl_global"
+    ],
+    "j_Occlusion_L_28": [
+        "ctl_global",
+        "ctl_global",
+        "ctl_global"
+    ],
+    "j_Occlusion_L_29": [
+        "ctl_global",
+        "ctl_global",
+        "ctl_global"
+    ],
+    "j_Occlusion_L_30": [
+        "ctl_global",
+        "ctl_global",
+        "ctl_global"
+    ],
+    "j_Occlusion_R_0": [
+        "ctl_global",
+        "ctl_global",
+        "ctl_global"
+    ],
+    "j_Occlusion_R_1": [
+        "ctl_global",
+        "ctl_global",
+        "ctl_global"
+    ],
+    "j_Occlusion_R_2": [
+        "ctl_global",
+        "ctl_global",
+        "ctl_global"
+    ],
+    "j_Occlusion_R_3": [
+        "ctl_global",
+        "ctl_global",
+        "ctl_global"
+    ],
+    "j_Occlusion_R_4": [
+        "ctl_global",
+        "ctl_global",
+        "ctl_global"
+    ],
+    "j_Occlusion_R_5": [
+        "ctl_global",
+        "ctl_global",
+        "ctl_global"
+    ],
+    "j_Occlusion_R_6": [
+        "ctl_global",
+        "ctl_global",
+        "ctl_global"
+    ],
+    "j_Occlusion_R_7": [
+        "ctl_global",
+        "ctl_global",
+        "ctl_global"
+    ],
+    "j_Occlusion_R_8": [
+        "ctl_global",
+        "ctl_global",
+        "ctl_global"
+    ],
+    "j_Occlusion_R_9": [
+        "ctl_global",
+        "ctl_global",
+        "ctl_global"
+    ],
+    "j_Occlusion_R_10": [
+        "ctl_global",
+        "ctl_global",
+        "ctl_global"
+    ],
+    "j_Occlusion_R_11": [
+        "ctl_global",
+        "ctl_global",
+        "ctl_global"
+    ],
+    "j_Occlusion_R_12": [
+        "ctl_global",
+        "ctl_global",
+        "ctl_global"
+    ],
+    "j_Occlusion_R_13": [
+        "ctl_global",
+        "ctl_global",
+        "ctl_global"
+    ],
+    "j_Occlusion_R_14": [
+        "ctl_global",
+        "ctl_global",
+        "ctl_global"
+    ],
+    "j_Occlusion_R_15": [
+        "ctl_global",
+        "ctl_global",
+        "ctl_global"
+    ],
+    "j_Occlusion_R_16": [
+        "ctl_global",
+        "ctl_global",
+        "ctl_global"
+    ],
+    "j_Occlusion_R_17": [
+        "ctl_global",
+        "ctl_global",
+        "ctl_global"
+    ],
+    "j_Occlusion_R_18": [
+        "ctl_global",
+        "ctl_global",
+        "ctl_global"
+    ],
+    "j_Occlusion_R_19": [
+        "ctl_global",
+        "ctl_global",
+        "ctl_global"
+    ],
+    "j_Occlusion_R_20": [
+        "ctl_global",
+        "ctl_global",
+        "ctl_global"
+    ],
+    "j_Occlusion_R_21": [
+        "ctl_global",
+        "ctl_global",
+        "ctl_global"
+    ],
+    "j_Occlusion_R_22": [
+        "ctl_global",
+        "ctl_global",
+        "ctl_global"
+    ],
+    "j_Occlusion_R_23": [
+        "ctl_global",
+        "ctl_global",
+        "ctl_global"
+    ],
+    "j_Occlusion_R_24": [
+        "ctl_global",
+        "ctl_global",
+        "ctl_global"
+    ],
+    "j_Occlusion_R_25": [
+        "ctl_global",
+        "ctl_global",
+        "ctl_global"
+    ],
+    "j_Occlusion_R_26": [
+        "ctl_global",
+        "ctl_global",
+        "ctl_global"
+    ],
+    "j_Occlusion_R_27": [
+        "ctl_global",
+        "ctl_global",
+        "ctl_global"
+    ],
+    "j_Occlusion_R_28": [
+        "ctl_global",
+        "ctl_global",
+        "ctl_global"
+    ],
+    "j_Occlusion_R_29": [
+        "ctl_global",
+        "ctl_global",
+        "ctl_global"
+    ],
+    "j_Occlusion_R_30": [
+        "ctl_global",
+        "ctl_global",
+        "ctl_global"
+    ],
+    "j_eyeLeftBase": [
+        "sk_faceBase",
+        "off_eyelid02_Left",
+        "off_eyelid01_Left",
+        "off_eyelid03_Left",
+        "off_eyelid04_Left",
+        "off_eyelid05_Left",
+        "off_eyelid06_Left",
+        "off_eyelid07_Left",
+        "off_eyelid08_Left",
+        "off_botEyelid01_Left",
+        "off_botEyelid02_Left",
+        "off_botEyelid03_Left"
+    ],
+    "j_eyeRightBase": [
+        "sk_faceBase",
+        "off_eyelid02_Right",
+        "off_eyelid01_Right",
+        "off_eyelid03_Right",
+        "off_eyelid04_Right",
+        "off_eyelid05_Right",
+        "off_eyelid06_Right",
+        "off_eyelid07_Right",
+        "off_eyelid08_Right",
+        "off_botEyelid01_Right",
+        "off_botEyelid02_Right",
+        "off_botEyelid03_Right"
+    ],
+    "off_botEyelid01_Left": [
+        "j_eyeLeftBase",
+        "sk_botEyelid01_Left"
+    ],
+    "off_botEyelid01_Right": [
+        "j_eyeRightBase",
+        "sk_botEyelid01_Right"
+    ],
+    "off_botEyelid02_Left": [
+        "j_eyeLeftBase",
+        "sk_botEyelid02_Left"
+    ],
+    "off_botEyelid02_Right": [
+        "j_eyeRightBase",
+        "sk_botEyelid02_Right"
+    ],
+    "off_botEyelid03_Left": [
+        "j_eyeLeftBase",
+        "sk_botEyelid03_Left"
+    ],
+    "off_botEyelid03_Right": [
+        "j_eyeRightBase",
+        "sk_botEyelid03_Right"
+    ],
+    "off_botLip_Left": [
+        "sk_faceBase",
+        "sk_botLip_Left"
+    ],
+    "off_botLip_Middle": [
+        "sk_faceBase",
+        "sk_botLip_Middle"
+    ],
+    "off_botLip_Right": [
+        "sk_faceBase",
+        "sk_botLip_Right"
+    ],
+    "off_cheek01_Left": [
+        "sk_faceBase",
+        "sk_cheek01_Left"
+    ],
+    "off_cheek01_Right": [
+        "sk_faceBase",
+        "sk_cheek01_Right"
+    ],
+    "off_cheek02_Left": [
+        "sk_faceBase",
+        "sk_cheek02_Left"
+    ],
+    "off_cheek02_Right": [
+        "sk_faceBase",
+        "sk_cheek02_Right"
+    ],
+    "off_eyebrow01_Left": [
+        "sk_faceBase",
+        "sk_eyebrow01_Left"
+    ],
+    "off_eyebrow01_Right": [
+        "sk_faceBase",
+        "sk_eyebrow01_Right"
+    ],
+    "off_eyebrow02_Left": [
+        "sk_faceBase",
+        "sk_eyebrow02_Left"
+    ],
+    "off_eyebrow02_Right": [
+        "sk_faceBase",
+        "sk_eyebrow02_Right"
+    ],
+    "off_eyebrow03_Left": [
+        "sk_faceBase",
+        "sk_eyebrow03_Left"
+    ],
+    "off_eyebrow03_Right": [
+        "sk_faceBase",
+        "sk_eyebrow03_Right"
+    ],
+    "off_eyebrow_Middle": [
+        "sk_faceBase",
+        "sk_eyebrow_Middle"
+    ],
+    "off_eyelid01_Left": [
+        "j_eyeLeftBase",
+        "sk_eyelid01_Left"
+    ],
+    "off_eyelid01_Right": [
+        "j_eyeRightBase",
+        "sk_eyelid01_Right"
+    ],
+    "off_eyelid02_Left": [
+        "j_eyeLeftBase",
+        "sk_eyelid02_Left"
+    ],
+    "off_eyelid02_Right": [
+        "j_eyeRightBase",
+        "sk_eyelid02_Right"
+    ],
+    "off_eyelid03_Left": [
+        "j_eyeLeftBase",
+        "sk_eyelid03_Left"
+    ],
+    "off_eyelid03_Right": [
+        "j_eyeRightBase",
+        "sk_eyelid03_Right"
+    ],
+    "off_eyelid04_Left": [
+        "j_eyeLeftBase",
+        "sk_eyelid04_Left"
+    ],
+    "off_eyelid04_Right": [
+        "j_eyeRightBase",
+        "sk_eyelid04_Right"
+    ],
+    "off_eyelid05_Left": [
+        "j_eyeLeftBase",
+        "sk_eyelid05_Left"
+    ],
+    "off_eyelid05_Right": [
+        "j_eyeRightBase",
+        "sk_eyelid05_Right"
+    ],
+    "off_eyelid06_Left": [
+        "j_eyeLeftBase",
+        "sk_eyelid06_Left"
+    ],
+    "off_eyelid06_Right": [
+        "j_eyeRightBase",
+        "sk_eyelid06_Right"
+    ],
+    "off_eyelid07_Left": [
+        "j_eyeLeftBase",
+        "sk_eyelid07_Left"
+    ],
+    "off_eyelid07_Right": [
+        "j_eyeRightBase",
+        "sk_eyelid07_Right"
+    ],
+    "off_eyelid08_Left": [
+        "j_eyeLeftBase",
+        "sk_eyelid08_Left"
+    ],
+    "off_eyelid08_Right": [
+        "j_eyeRightBase",
+        "sk_eyelid08_Right"
+    ],
+    "off_inBotLip_Left": [
+        "sk_faceBase",
+        "sk_inBotLip_Left"
+    ],
+    "off_inBotLip_Middle": [
+        "sk_faceBase",
+        "sk_inBotLip_Middle"
+    ],
+    "off_inBotLip_Right": [
+        "sk_faceBase",
+        "sk_inBotLip_Right"
+    ],
+    "off_inLip_Left": [
+        "sk_faceBase",
+        "sk_inLip_Left"
+    ],
+    "off_inLip_Right": [
+        "sk_faceBase",
+        "sk_inLip_Right"
+    ],
+    "off_inTopLip_Left": [
+        "sk_faceBase",
+        "sk_inTopLip_Left"
+    ],
+    "off_inTopLip_Middle": [
+        "sk_faceBase",
+        "sk_inTopLip_Middle"
+    ],
+    "off_inTopLip_Right": [
+        "sk_faceBase",
+        "sk_inTopLip_Right"
+    ],
+    "off_lip_Left": [
+        "sk_faceBase",
+        "sk_lip_Left"
+    ],
+    "off_lip_Right": [
+        "sk_faceBase",
+        "sk_lip_Right"
+    ],
+    "off_nasolabial_Left": [
+        "sk_faceBase",
+        "sk_nasolabial_Left"
+    ],
+    "off_nasolabial_Middle": [
+        "sk_faceBase",
+        "sk_nasolabial_Middle"
+    ],
+    "off_nasolabial_Right": [
+        "sk_faceBase",
+        "sk_nasolabial_Right"
+    ],
+    "off_nose_Left": [
+        "sk_faceBase",
+        "sk_nose_Left"
+    ],
+    "off_nose_Right": [
+        "sk_faceBase",
+        "sk_nose_Right"
+    ],
+    "off_nostril_Left": [
+        "sk_faceBase",
+        "sk_nostril_Left"
+    ],
+    "off_nostril_Right": [
+        "sk_faceBase",
+        "sk_nostril_Right"
+    ],
+    "off_topLip_Left": [
+        "sk_faceBase",
+        "sk_topLip_Left"
+    ],
+    "off_topLip_Middle": [
+        "sk_faceBase",
+        "sk_topLip_Middle"
+    ],
+    "off_topLip_Right": [
+        "sk_faceBase",
+        "sk_topLip_Right"
+    ],
+    "sk_botEyelid01_Left": [
+        "off_botEyelid01_Left",
+        "ctl_botEyelid01_Left",
+        "ctl_botEyelid01_Left",
+        "ctl_botEyelid01_Left",
+        "ctl_botEyelid01_Left",
+        "ctl_botEyelid01_Left",
+        "ctl_botEyelid01_Left",
+        "ctl_botEyelid01_Left",
+        "ctl_botEyelid01_Left",
+        "ctl_botEyelid01_Left"
+    ],
+    "sk_botEyelid01_Right": [
+        "off_botEyelid01_Right",
+        "ctl_botEyelid01_Right",
+        "ctl_botEyelid01_Right",
+        "ctl_botEyelid01_Right",
+        "ctl_botEyelid01_Right",
+        "ctl_botEyelid01_Right",
+        "ctl_botEyelid01_Right",
+        "ctl_botEyelid01_Right",
+        "ctl_botEyelid01_Right",
+        "ctl_botEyelid01_Right"
+    ],
+    "sk_botEyelid02_Left": [
+        "off_botEyelid02_Left",
+        "ctl_botEyelid02_Left",
+        "ctl_botEyelid02_Left",
+        "ctl_botEyelid02_Left",
+        "ctl_botEyelid02_Left",
+        "ctl_botEyelid02_Left",
+        "ctl_botEyelid02_Left",
+        "ctl_botEyelid02_Left",
+        "ctl_botEyelid02_Left",
+        "ctl_botEyelid02_Left"
+    ],
+    "sk_botEyelid02_Right": [
+        "off_botEyelid02_Right",
+        "ctl_botEyelid02_Right",
+        "ctl_botEyelid02_Right",
+        "ctl_botEyelid02_Right",
+        "ctl_botEyelid02_Right",
+        "ctl_botEyelid02_Right",
+        "ctl_botEyelid02_Right",
+        "ctl_botEyelid02_Right",
+        "ctl_botEyelid02_Right",
+        "ctl_botEyelid02_Right"
+    ],
+    "sk_botEyelid03_Left": [
+        "off_botEyelid03_Left",
+        "ctl_botEyelid03_Left",
+        "ctl_botEyelid03_Left",
+        "ctl_botEyelid03_Left",
+        "ctl_botEyelid03_Left",
+        "ctl_botEyelid03_Left",
+        "ctl_botEyelid03_Left",
+        "ctl_botEyelid03_Left",
+        "ctl_botEyelid03_Left",
+        "ctl_botEyelid03_Left"
+    ],
+    "sk_botEyelid03_Right": [
+        "off_botEyelid03_Right",
+        "ctl_botEyelid03_Right",
+        "ctl_botEyelid03_Right",
+        "ctl_botEyelid03_Right",
+        "ctl_botEyelid03_Right",
+        "ctl_botEyelid03_Right",
+        "ctl_botEyelid03_Right",
+        "ctl_botEyelid03_Right",
+        "ctl_botEyelid03_Right",
+        "ctl_botEyelid03_Right"
+    ],
+    "sk_botLip_Left": [
+        "off_botLip_Left",
+        "ctl_botLip_Left",
+        "ctl_botLip_Left",
+        "ctl_botLip_Left",
+        "ctl_botLip_Left",
+        "ctl_botLip_Left",
+        "ctl_botLip_Left",
+        "ctl_botLip_Left",
+        "ctl_botLip_Left",
+        "ctl_botLip_Left"
+    ],
+    "sk_botLip_Middle": [
+        "off_botLip_Middle",
+        "ctl_botLip_Middle",
+        "ctl_botLip_Middle",
+        "ctl_botLip_Middle",
+        "ctl_botLip_Middle",
+        "ctl_botLip_Middle",
+        "ctl_botLip_Middle",
+        "ctl_botLip_Middle",
+        "ctl_botLip_Middle",
+        "ctl_botLip_Middle"
+    ],
+    "sk_botLip_Right": [
+        "off_botLip_Right",
+        "ctl_botLip_Right",
+        "ctl_botLip_Right",
+        "ctl_botLip_Right",
+        "ctl_botLip_Right",
+        "ctl_botLip_Right",
+        "ctl_botLip_Right",
+        "ctl_botLip_Right",
+        "ctl_botLip_Right",
+        "ctl_botLip_Right"
+    ],
+    "sk_cheek01_Left": [
+        "off_cheek01_Left",
+        "ctl_cheek01_Left",
+        "ctl_cheek01_Left",
+        "ctl_cheek01_Left",
+        "ctl_cheek01_Left",
+        "ctl_cheek01_Left",
+        "ctl_cheek01_Left",
+        "ctl_cheek01_Left",
+        "ctl_cheek01_Left",
+        "ctl_cheek01_Left"
+    ],
+    "sk_cheek01_Right": [
+        "off_cheek01_Right",
+        "ctl_cheek01_Right",
+        "ctl_cheek01_Right",
+        "ctl_cheek01_Right",
+        "ctl_cheek01_Right",
+        "ctl_cheek01_Right",
+        "ctl_cheek01_Right",
+        "ctl_cheek01_Right",
+        "ctl_cheek01_Right",
+        "ctl_cheek01_Right"
+    ],
+    "sk_cheek02_Left": [
+        "off_cheek02_Left",
+        "ctl_cheek02_Left",
+        "ctl_cheek02_Left",
+        "ctl_cheek02_Left",
+        "ctl_cheek02_Left",
+        "ctl_cheek02_Left",
+        "ctl_cheek02_Left",
+        "ctl_cheek02_Left",
+        "ctl_cheek02_Left",
+        "ctl_cheek02_Left"
+    ],
+    "sk_cheek02_Right": [
+        "off_cheek02_Right",
+        "ctl_cheek02_Right",
+        "ctl_cheek02_Right",
+        "ctl_cheek02_Right",
+        "ctl_cheek02_Right",
+        "ctl_cheek02_Right",
+        "ctl_cheek02_Right",
+        "ctl_cheek02_Right",
+        "ctl_cheek02_Right",
+        "ctl_cheek02_Right"
+    ],
+    "sk_eyebrow01_Left": [
+        "off_eyebrow01_Left",
+        "ctl_eyebrow01_Left",
+        "ctl_eyebrow01_Left",
+        "ctl_eyebrow01_Left",
+        "ctl_eyebrow01_Left",
+        "ctl_eyebrow01_Left",
+        "ctl_eyebrow01_Left",
+        "ctl_eyebrow01_Left",
+        "ctl_eyebrow01_Left",
+        "ctl_eyebrow01_Left"
+    ],
+    "sk_eyebrow01_Right": [
+        "off_eyebrow01_Right",
+        "ctl_eyebrow01_Right",
+        "ctl_eyebrow01_Right",
+        "ctl_eyebrow01_Right",
+        "ctl_eyebrow01_Right",
+        "ctl_eyebrow01_Right",
+        "ctl_eyebrow01_Right",
+        "ctl_eyebrow01_Right",
+        "ctl_eyebrow01_Right",
+        "ctl_eyebrow01_Right"
+    ],
+    "sk_eyebrow02_Left": [
+        "off_eyebrow02_Left",
+        "ctl_eyebrow02_Left",
+        "ctl_eyebrow02_Left",
+        "ctl_eyebrow02_Left",
+        "ctl_eyebrow02_Left",
+        "ctl_eyebrow02_Left",
+        "ctl_eyebrow02_Left",
+        "ctl_eyebrow02_Left",
+        "ctl_eyebrow02_Left",
+        "ctl_eyebrow02_Left"
+    ],
+    "sk_eyebrow02_Right": [
+        "off_eyebrow02_Right",
+        "ctl_eyebrow02_Right",
+        "ctl_eyebrow02_Right",
+        "ctl_eyebrow02_Right",
+        "ctl_eyebrow02_Right",
+        "ctl_eyebrow02_Right",
+        "ctl_eyebrow02_Right",
+        "ctl_eyebrow02_Right",
+        "ctl_eyebrow02_Right",
+        "ctl_eyebrow02_Right"
+    ],
+    "sk_eyebrow03_Left": [
+        "off_eyebrow03_Left",
+        "ctl_eyebrow03_Left",
+        "ctl_eyebrow03_Left",
+        "ctl_eyebrow03_Left",
+        "ctl_eyebrow03_Left",
+        "ctl_eyebrow03_Left",
+        "ctl_eyebrow03_Left",
+        "ctl_eyebrow03_Left",
+        "ctl_eyebrow03_Left",
+        "ctl_eyebrow03_Left"
+    ],
+    "sk_eyebrow03_Right": [
+        "off_eyebrow03_Right",
+        "ctl_eyebrow03_Right",
+        "ctl_eyebrow03_Right",
+        "ctl_eyebrow03_Right",
+        "ctl_eyebrow03_Right",
+        "ctl_eyebrow03_Right",
+        "ctl_eyebrow03_Right",
+        "ctl_eyebrow03_Right",
+        "ctl_eyebrow03_Right",
+        "ctl_eyebrow03_Right"
+    ],
+    "sk_eyebrow_Middle": [
+        "off_eyebrow_Middle",
+        "ctl_eyebrow_Middle",
+        "ctl_eyebrow_Middle",
+        "ctl_eyebrow_Middle",
+        "ctl_eyebrow_Middle",
+        "ctl_eyebrow_Middle",
+        "ctl_eyebrow_Middle",
+        "ctl_eyebrow_Middle",
+        "ctl_eyebrow_Middle",
+        "ctl_eyebrow_Middle"
+    ],
+    "sk_eyelid01_Left": [
+        "off_eyelid01_Left",
+        "ctl_eyelid01_Left",
+        "ctl_eyelid01_Left",
+        "ctl_eyelid01_Left",
+        "ctl_eyelid01_Left",
+        "ctl_eyelid01_Left",
+        "ctl_eyelid01_Left",
+        "ctl_eyelid01_Left",
+        "ctl_eyelid01_Left",
+        "ctl_eyelid01_Left"
+    ],
+    "sk_eyelid01_Right": [
+        "off_eyelid01_Right",
+        "ctl_eyelid01_Right",
+        "ctl_eyelid01_Right",
+        "ctl_eyelid01_Right",
+        "ctl_eyelid01_Right",
+        "ctl_eyelid01_Right",
+        "ctl_eyelid01_Right",
+        "ctl_eyelid01_Right",
+        "ctl_eyelid01_Right",
+        "ctl_eyelid01_Right"
+    ],
+    "sk_eyelid02_Left": [
+        "off_eyelid02_Left",
+        "ctl_eyelid02_Left",
+        "ctl_eyelid02_Left",
+        "ctl_eyelid02_Left",
+        "ctl_eyelid02_Left",
+        "ctl_eyelid02_Left",
+        "ctl_eyelid02_Left",
+        "ctl_eyelid02_Left",
+        "ctl_eyelid02_Left",
+        "ctl_eyelid02_Left"
+    ],
+    "sk_eyelid02_Right": [
+        "off_eyelid02_Right",
+        "ctl_eyelid02_Right",
+        "ctl_eyelid02_Right",
+        "ctl_eyelid02_Right",
+        "ctl_eyelid02_Right",
+        "ctl_eyelid02_Right",
+        "ctl_eyelid02_Right",
+        "ctl_eyelid02_Right",
+        "ctl_eyelid02_Right",
+        "ctl_eyelid02_Right"
+    ],
+    "sk_eyelid03_Left": [
+        "off_eyelid03_Left",
+        "ctl_eyelid03_Left",
+        "ctl_eyelid03_Left",
+        "ctl_eyelid03_Left",
+        "ctl_eyelid03_Left",
+        "ctl_eyelid03_Left",
+        "ctl_eyelid03_Left",
+        "ctl_eyelid03_Left",
+        "ctl_eyelid03_Left",
+        "ctl_eyelid03_Left"
+    ],
+    "sk_eyelid03_Right": [
+        "off_eyelid03_Right",
+        "ctl_eyelid03_Right",
+        "ctl_eyelid03_Right",
+        "ctl_eyelid03_Right",
+        "ctl_eyelid03_Right",
+        "ctl_eyelid03_Right",
+        "ctl_eyelid03_Right",
+        "ctl_eyelid03_Right",
+        "ctl_eyelid03_Right",
+        "ctl_eyelid03_Right"
+    ],
+    "sk_eyelid04_Left": [
+        "off_eyelid04_Left",
+        "ctl_eyelid04_Left",
+        "ctl_eyelid04_Left",
+        "ctl_eyelid04_Left",
+        "ctl_eyelid04_Left",
+        "ctl_eyelid04_Left",
+        "ctl_eyelid04_Left",
+        "ctl_eyelid04_Left",
+        "ctl_eyelid04_Left",
+        "ctl_eyelid04_Left"
+    ],
+    "sk_eyelid04_Right": [
+        "off_eyelid04_Right",
+        "ctl_eyelid04_Right",
+        "ctl_eyelid04_Right",
+        "ctl_eyelid04_Right",
+        "ctl_eyelid04_Right",
+        "ctl_eyelid04_Right",
+        "ctl_eyelid04_Right",
+        "ctl_eyelid04_Right",
+        "ctl_eyelid04_Right",
+        "ctl_eyelid04_Right"
+    ],
+    "sk_eyelid05_Left": [
+        "off_eyelid05_Left",
+        "ctl_eyelid05_Left",
+        "ctl_eyelid05_Left",
+        "ctl_eyelid05_Left",
+        "ctl_eyelid05_Left",
+        "ctl_eyelid05_Left",
+        "ctl_eyelid05_Left",
+        "ctl_eyelid05_Left",
+        "ctl_eyelid05_Left",
+        "ctl_eyelid05_Left"
+    ],
+    "sk_eyelid05_Right": [
+        "off_eyelid05_Right",
+        "ctl_eyelid05_Right",
+        "ctl_eyelid05_Right",
+        "ctl_eyelid05_Right",
+        "ctl_eyelid05_Right",
+        "ctl_eyelid05_Right",
+        "ctl_eyelid05_Right",
+        "ctl_eyelid05_Right",
+        "ctl_eyelid05_Right",
+        "ctl_eyelid05_Right"
+    ],
+    "sk_eyelid06_Left": [
+        "off_eyelid06_Left",
+        "ctl_eyelid06_Left",
+        "ctl_eyelid06_Left",
+        "ctl_eyelid06_Left",
+        "ctl_eyelid06_Left",
+        "ctl_eyelid06_Left",
+        "ctl_eyelid06_Left",
+        "ctl_eyelid06_Left",
+        "ctl_eyelid06_Left",
+        "ctl_eyelid06_Left"
+    ],
+    "sk_eyelid06_Right": [
+        "off_eyelid06_Right",
+        "ctl_eyelid06_Right",
+        "ctl_eyelid06_Right",
+        "ctl_eyelid06_Right",
+        "ctl_eyelid06_Right",
+        "ctl_eyelid06_Right",
+        "ctl_eyelid06_Right",
+        "ctl_eyelid06_Right",
+        "ctl_eyelid06_Right",
+        "ctl_eyelid06_Right"
+    ],
+    "sk_eyelid07_Left": [
+        "off_eyelid07_Left",
+        "ctl_eyelid07_Left",
+        "ctl_eyelid07_Left",
+        "ctl_eyelid07_Left",
+        "ctl_eyelid07_Left",
+        "ctl_eyelid07_Left",
+        "ctl_eyelid07_Left",
+        "ctl_eyelid07_Left",
+        "ctl_eyelid07_Left",
+        "ctl_eyelid07_Left"
+    ],
+    "sk_eyelid07_Right": [
+        "off_eyelid07_Right",
+        "ctl_eyelid07_Right",
+        "ctl_eyelid07_Right",
+        "ctl_eyelid07_Right",
+        "ctl_eyelid07_Right",
+        "ctl_eyelid07_Right",
+        "ctl_eyelid07_Right",
+        "ctl_eyelid07_Right",
+        "ctl_eyelid07_Right",
+        "ctl_eyelid07_Right"
+    ],
+    "sk_eyelid08_Left": [
+        "off_eyelid08_Left",
+        "ctl_eyelid08_Left",
+        "ctl_eyelid08_Left",
+        "ctl_eyelid08_Left",
+        "ctl_eyelid08_Left",
+        "ctl_eyelid08_Left",
+        "ctl_eyelid08_Left",
+        "ctl_eyelid08_Left",
+        "ctl_eyelid08_Left",
+        "ctl_eyelid08_Left"
+    ],
+    "sk_eyelid08_Right": [
+        "off_eyelid08_Right",
+        "ctl_eyelid08_Right",
+        "ctl_eyelid08_Right",
+        "ctl_eyelid08_Right",
+        "ctl_eyelid08_Right",
+        "ctl_eyelid08_Right",
+        "ctl_eyelid08_Right",
+        "ctl_eyelid08_Right",
+        "ctl_eyelid08_Right",
+        "ctl_eyelid08_Right"
+    ],
+    "sk_faceBase": [
+        "Head_sk",
+        "j_eyeRightBase",
+        "j_eyeLeftBase",
+        "off_cheek01_Left",
+        "off_cheek02_Left",
+        "off_cheek01_Right",
+        "off_cheek02_Right",
+        "off_eyebrow_Middle",
+        "off_eyebrow01_Left",
+        "off_eyebrow02_Left",
+        "off_eyebrow03_Left",
+        "off_eyebrow01_Right",
+        "off_eyebrow02_Right",
+        "off_eyebrow03_Right",
+        "off_nostril_Left",
+        "off_nostril_Right",
+        "off_nose_Left",
+        "off_nose_Right",
+        "off_nasolabial_Middle",
+        "off_nasolabial_Left",
+        "off_nasolabial_Right",
+        "off_topLip_Middle",
+        "off_topLip_Left",
+        "off_topLip_Right",
+        "off_lip_Left",
+        "off_lip_Right",
+        "off_botLip_Middle",
+        "off_botLip_Left",
+        "off_botLip_Right",
+        "off_inTopLip_Middle",
+        "off_inTopLip_Left",
+        "off_inTopLip_Right",
+        "off_inBotLip_Middle",
+        "off_inBotLip_Left",
+        "off_inBotLip_Right",
+        "off_inLip_Left",
+        "off_inLip_Right"
+    ],
+    "sk_inBotLip_Left": [
+        "off_inBotLip_Left",
+        "ctl_inBotLip_Left",
+        "ctl_inBotLip_Left",
+        "ctl_inBotLip_Left",
+        "ctl_inBotLip_Left",
+        "ctl_inBotLip_Left",
+        "ctl_inBotLip_Left",
+        "ctl_inBotLip_Left",
+        "ctl_inBotLip_Left",
+        "ctl_inBotLip_Left"
+    ],
+    "sk_inBotLip_Middle": [
+        "off_inBotLip_Middle",
+        "ctl_inBotLip_Middle",
+        "ctl_inBotLip_Middle",
+        "ctl_inBotLip_Middle",
+        "ctl_inBotLip_Middle",
+        "ctl_inBotLip_Middle",
+        "ctl_inBotLip_Middle",
+        "ctl_inBotLip_Middle",
+        "ctl_inBotLip_Middle",
+        "ctl_inBotLip_Middle"
+    ],
+    "sk_inBotLip_Right": [
+        "off_inBotLip_Right",
+        "ctl_inBotLip_Right",
+        "ctl_inBotLip_Right",
+        "ctl_inBotLip_Right",
+        "ctl_inBotLip_Right",
+        "ctl_inBotLip_Right",
+        "ctl_inBotLip_Right",
+        "ctl_inBotLip_Right",
+        "ctl_inBotLip_Right",
+        "ctl_inBotLip_Right"
+    ],
+    "sk_inLip_Left": [
+        "off_inLip_Left",
+        "ctl_inLip_Left",
+        "ctl_inLip_Left",
+        "ctl_inLip_Left",
+        "ctl_inLip_Left",
+        "ctl_inLip_Left",
+        "ctl_inLip_Left",
+        "ctl_inLip_Left",
+        "ctl_inLip_Left",
+        "ctl_inLip_Left"
+    ],
+    "sk_inLip_Right": [
+        "off_inLip_Right",
+        "ctl_inLip_Right",
+        "ctl_inLip_Right",
+        "ctl_inLip_Right",
+        "ctl_inLip_Right",
+        "ctl_inLip_Right",
+        "ctl_inLip_Right",
+        "ctl_inLip_Right",
+        "ctl_inLip_Right",
+        "ctl_inLip_Right"
+    ],
+    "sk_inTopLip_Left": [
+        "off_inTopLip_Left",
+        "ctl_inTopLip_Left",
+        "ctl_inTopLip_Left",
+        "ctl_inTopLip_Left",
+        "ctl_inTopLip_Left",
+        "ctl_inTopLip_Left",
+        "ctl_inTopLip_Left",
+        "ctl_inTopLip_Left",
+        "ctl_inTopLip_Left",
+        "ctl_inTopLip_Left"
+    ],
+    "sk_inTopLip_Middle": [
+        "off_inTopLip_Middle",
+        "ctl_inTopLip_Middle",
+        "ctl_inTopLip_Middle",
+        "ctl_inTopLip_Middle",
+        "ctl_inTopLip_Middle",
+        "ctl_inTopLip_Middle",
+        "ctl_inTopLip_Middle",
+        "ctl_inTopLip_Middle",
+        "ctl_inTopLip_Middle",
+        "ctl_inTopLip_Middle"
+    ],
+    "sk_inTopLip_Right": [
+        "off_inTopLip_Right",
+        "ctl_inTopLip_Right",
+        "ctl_inTopLip_Right",
+        "ctl_inTopLip_Right",
+        "ctl_inTopLip_Right",
+        "ctl_inTopLip_Right",
+        "ctl_inTopLip_Right",
+        "ctl_inTopLip_Right",
+        "ctl_inTopLip_Right",
+        "ctl_inTopLip_Right"
+    ],
+    "sk_lip_Left": [
+        "off_lip_Left",
+        "ctl_lip_Left",
+        "ctl_lip_Left",
+        "ctl_lip_Left",
+        "ctl_lip_Left",
+        "ctl_lip_Left",
+        "ctl_lip_Left",
+        "ctl_lip_Left",
+        "ctl_lip_Left",
+        "ctl_lip_Left"
+    ],
+    "sk_lip_Right": [
+        "off_lip_Right",
+        "ctl_lip_Right",
+        "ctl_lip_Right",
+        "ctl_lip_Right",
+        "ctl_lip_Right",
+        "ctl_lip_Right",
+        "ctl_lip_Right",
+        "ctl_lip_Right",
+        "ctl_lip_Right",
+        "ctl_lip_Right"
+    ],
+    "sk_nasolabial_Left": [
+        "off_nasolabial_Left",
+        "ctl_nasolabial_Left",
+        "ctl_nasolabial_Left",
+        "ctl_nasolabial_Left",
+        "ctl_nasolabial_Left",
+        "ctl_nasolabial_Left",
+        "ctl_nasolabial_Left",
+        "ctl_nasolabial_Left",
+        "ctl_nasolabial_Left",
+        "ctl_nasolabial_Left"
+    ],
+    "sk_nasolabial_Middle": [
+        "off_nasolabial_Middle",
+        "ctl_nasolabial_Middle",
+        "ctl_nasolabial_Middle",
+        "ctl_nasolabial_Middle",
+        "ctl_nasolabial_Middle",
+        "ctl_nasolabial_Middle",
+        "ctl_nasolabial_Middle",
+        "ctl_nasolabial_Middle",
+        "ctl_nasolabial_Middle",
+        "ctl_nasolabial_Middle"
+    ],
+    "sk_nasolabial_Right": [
+        "off_nasolabial_Right",
+        "ctl_nasolabial_Right",
+        "ctl_nasolabial_Right",
+        "ctl_nasolabial_Right",
+        "ctl_nasolabial_Right",
+        "ctl_nasolabial_Right",
+        "ctl_nasolabial_Right",
+        "ctl_nasolabial_Right",
+        "ctl_nasolabial_Right",
+        "ctl_nasolabial_Right"
+    ],
+    "sk_nose_Left": [
+        "off_nose_Left",
+        "ctl_nose_Left",
+        "ctl_nose_Left",
+        "ctl_nose_Left",
+        "ctl_nose_Left",
+        "ctl_nose_Left",
+        "ctl_nose_Left",
+        "ctl_nose_Left",
+        "ctl_nose_Left",
+        "ctl_nose_Left"
+    ],
+    "sk_nose_Right": [
+        "off_nose_Right",
+        "ctl_nose_Right",
+        "ctl_nose_Right",
+        "ctl_nose_Right",
+        "ctl_nose_Right",
+        "ctl_nose_Right",
+        "ctl_nose_Right",
+        "ctl_nose_Right",
+        "ctl_nose_Right",
+        "ctl_nose_Right"
+    ],
+    "sk_nostril_Left": [
+        "off_nostril_Left",
+        "ctl_nostril_Left",
+        "ctl_nostril_Left",
+        "ctl_nostril_Left",
+        "ctl_nostril_Left",
+        "ctl_nostril_Left",
+        "ctl_nostril_Left",
+        "ctl_nostril_Left",
+        "ctl_nostril_Left",
+        "ctl_nostril_Left"
+    ],
+    "sk_nostril_Right": [
+        "off_nostril_Right",
+        "ctl_nostril_Right",
+        "ctl_nostril_Right",
+        "ctl_nostril_Right",
+        "ctl_nostril_Right",
+        "ctl_nostril_Right",
+        "ctl_nostril_Right",
+        "ctl_nostril_Right",
+        "ctl_nostril_Right",
+        "ctl_nostril_Right"
+    ],
+    "sk_topLip_Left": [
+        "off_topLip_Left",
+        "ctl_topLip_Left",
+        "ctl_topLip_Left",
+        "ctl_topLip_Left",
+        "ctl_topLip_Left",
+        "ctl_topLip_Left",
+        "ctl_topLip_Left",
+        "ctl_topLip_Left",
+        "ctl_topLip_Left",
+        "ctl_topLip_Left"
+    ],
+    "sk_topLip_Middle": [
+        "off_topLip_Middle",
+        "ctl_topLip_Middle",
+        "ctl_topLip_Middle",
+        "ctl_topLip_Middle",
+        "ctl_topLip_Middle",
+        "ctl_topLip_Middle",
+        "ctl_topLip_Middle",
+        "ctl_topLip_Middle",
+        "ctl_topLip_Middle",
+        "ctl_topLip_Middle"
+    ],
+    "sk_topLip_Right": [
+        "off_topLip_Right",
+        "ctl_topLip_Right",
+        "ctl_topLip_Right",
+        "ctl_topLip_Right",
+        "ctl_topLip_Right",
+        "ctl_topLip_Right",
+        "ctl_topLip_Right",
+        "ctl_topLip_Right",
+        "ctl_topLip_Right",
+        "ctl_topLip_Right"
+    ]
+}

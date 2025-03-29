@@ -1,0 +1,32 @@
+# This code should be executed in the maya script editor (python interpreter)
+# to execute the code you should paste it and press Ctrl + Enter
+
+import maya.cmds as cmds
+import json
+
+# get the joint in the scene
+joints = cmds.ls(type="joint")
+print(f"number of joints the model: {len(joints)}")
+print("list of joints: ", joints)
+
+# ------ Maya output --------------
+# number of joints the model: 265
+# list of joints:  ['Head_end_jnt', 'Head_sk', 'Jaw_01_jnt', 'Jaw_02_jnt', 'Lower_Mouth_sk', 'Neck_01_sk', 'Neck_02_sk', 'Neck_03_sk', 'Root', 'Spine_end_sk', 'Tongue_01_sk', 'Tongue_02_sk', 'Tongue_03_sk', 'Tongue_04_sk', 'Tongue_05_sk', 'Tongue_end_jnt', 'Upper_Mouth_sk', 'eye_Left_sk', 'eye_Right_sk', 'j_Lacrima_L_0', 'j_Lacrima_L_1', 'j_Lacrima_L_2', 'j_Lacrima_L_3', 'j_Lacrima_L_4', 'j_Lacrima_L_5', 'j_Lacrima_R_0', 'j_Lacrima_R_1', 'j_Lacrima_R_2', 'j_Lacrima_R_3', 'j_Lacrima_R_4', 'j_Lacrima_R_5', 'j_Lacrima_R_6', 'j_Lashes_Dn_L_0', 'j_Lashes_Dn_L_1', 'j_Lashes_Dn_L_2', 'j_Lashes_Dn_L_3', 'j_Lashes_Dn_L_4', 'j_Lashes_Dn_L_5', 'j_Lashes_Dn_L_6', 'j_Lashes_Dn_L_7', 'j_Lashes_Dn_L_8', 'j_Lashes_Dn_L_9', 'j_Lashes_Dn_L_10', 'j_Lashes_Dn_L_11', 'j_Lashes_Dn_L_12', 'j_Lashes_Dn_R_0', 'j_Lashes_Dn_R_1', 'j_Lashes_Dn_R_2', 'j_Lashes_Dn_R_3', 'j_Lashes_Dn_R_4', 'j_Lashes_Dn_R_5', 'j_Lashes_Dn_R_6', 'j_Lashes_Dn_R_7', 'j_Lashes_Dn_R_8', 'j_Lashes_Dn_R_9', 'j_Lashes_Dn_R_10', 'j_Lashes_Dn_R_11', 'j_Lashes_Dn_R_12', 'j_Lashes_Dn_R_13', 'j_Lashes_Top_L_0', 'j_Lashes_Top_L_1', 'j_Lashes_Top_L_2', 'j_Lashes_Top_L_3', 'j_Lashes_Top_L_4', 'j_Lashes_Top_L_5', 'j_Lashes_Top_L_6', 'j_Lashes_Top_L_7', 'j_Lashes_Top_L_8', 'j_Lashes_Top_L_9', 'j_Lashes_Top_L_10', 'j_Lashes_Top_L_11', 'j_Lashes_Top_L_12', 'j_Lashes_Top_L_13', 'j_Lashes_Top_L_14', 'j_Lashes_Top_R_0', 'j_Lashes_Top_R_1', 'j_Lashes_Top_R_2', 'j_Lashes_Top_R_3', 'j_Lashes_Top_R_4', 'j_Lashes_Top_R_5', 'j_Lashes_Top_R_6', 'j_Lashes_Top_R_7', 'j_Lashes_Top_R_8', 'j_Lashes_Top_R_9', 'j_Lashes_Top_R_10', 'j_Lashes_Top_R_11', 'j_Lashes_Top_R_12', 'j_Lashes_Top_R_13', 'j_Occlusion_L_0', 'j_Occlusion_L_1', 'j_Occlusion_L_2', 'j_Occlusion_L_3', 'j_Occlusion_L_4', 'j_Occlusion_L_5', 'j_Occlusion_L_6', 'j_Occlusion_L_7', 'j_Occlusion_L_8', 'j_Occlusion_L_9', 'j_Occlusion_L_10', 'j_Occlusion_L_11', 'j_Occlusion_L_12', 'j_Occlusion_L_13', 'j_Occlusion_L_14', 'j_Occlusion_L_15', 'j_Occlusion_L_16', 'j_Occlusion_L_17', 'j_Occlusion_L_18', 'j_Occlusion_L_19', 'j_Occlusion_L_20', 'j_Occlusion_L_21', 'j_Occlusion_L_22', 'j_Occlusion_L_23', 'j_Occlusion_L_24', 'j_Occlusion_L_25', 'j_Occlusion_L_26', 'j_Occlusion_L_27', 'j_Occlusion_L_28', 'j_Occlusion_L_29', 'j_Occlusion_L_30', 'j_Occlusion_R_0', 'j_Occlusion_R_1', 'j_Occlusion_R_2', 'j_Occlusion_R_3', 'j_Occlusion_R_4', 'j_Occlusion_R_5', 'j_Occlusion_R_6', 'j_Occlusion_R_7', 'j_Occlusion_R_8', 'j_Occlusion_R_9', 'j_Occlusion_R_10', 'j_Occlusion_R_11', 'j_Occlusion_R_12', 'j_Occlusion_R_13', 'j_Occlusion_R_14', 'j_Occlusion_R_15', 'j_Occlusion_R_16', 'j_Occlusion_R_17', 'j_Occlusion_R_18', 'j_Occlusion_R_19', 'j_Occlusion_R_20', 'j_Occlusion_R_21', 'j_Occlusion_R_22', 'j_Occlusion_R_23', 'j_Occlusion_R_24', 'j_Occlusion_R_25', 'j_Occlusion_R_26', 'j_Occlusion_R_27', 'j_Occlusion_R_28', 'j_Occlusion_R_29', 'j_Occlusion_R_30', 'j_eyeLeftBase', 'j_eyeRightBase', 'off_botEyelid01_Left', 'off_botEyelid01_Right', 'off_botEyelid02_Left', 'off_botEyelid02_Right', 'off_botEyelid03_Left', 'off_botEyelid03_Right', 'off_botLip_Left', 'off_botLip_Middle', 'off_botLip_Right', 'off_cheek01_Left', 'off_cheek01_Right', 'off_cheek02_Left', 'off_cheek02_Right', 'off_eyebrow01_Left', 'off_eyebrow01_Right', 'off_eyebrow02_Left', 'off_eyebrow02_Right', 'off_eyebrow03_Left', 'off_eyebrow03_Right', 'off_eyebrow_Middle', 'off_eyelid01_Left', 'off_eyelid01_Right', 'off_eyelid02_Left', 'off_eyelid02_Right', 'off_eyelid03_Left', 'off_eyelid03_Right', 'off_eyelid04_Left', 'off_eyelid04_Right', 'off_eyelid05_Left', 'off_eyelid05_Right', 'off_eyelid06_Left', 'off_eyelid06_Right', 'off_eyelid07_Left', 'off_eyelid07_Right', 'off_eyelid08_Left', 'off_eyelid08_Right', 'off_inBotLip_Left', 'off_inBotLip_Middle', 'off_inBotLip_Right', 'off_inLip_Left', 'off_inLip_Right', 'off_inTopLip_Left', 'off_inTopLip_Middle', 'off_inTopLip_Right', 'off_lip_Left', 'off_lip_Right', 'off_nasolabial_Left', 'off_nasolabial_Middle', 'off_nasolabial_Right', 'off_nose_Left', 'off_nose_Right', 'off_nostril_Left', 'off_nostril_Right', 'off_topLip_Left', 'off_topLip_Middle', 'off_topLip_Right', 'sk_botEyelid01_Left', 'sk_botEyelid01_Right', 'sk_botEyelid02_Left', 'sk_botEyelid02_Right', 'sk_botEyelid03_Left', 'sk_botEyelid03_Right', 'sk_botLip_Left', 'sk_botLip_Middle', 'sk_botLip_Right', 'sk_cheek01_Left', 'sk_cheek01_Right', 'sk_cheek02_Left', 'sk_cheek02_Right', 'sk_eyebrow01_Left', 'sk_eyebrow01_Right', 'sk_eyebrow02_Left', 'sk_eyebrow02_Right', 'sk_eyebrow03_Left', 'sk_eyebrow03_Right', 'sk_eyebrow_Middle', 'sk_eyelid01_Left', 'sk_eyelid01_Right', 'sk_eyelid02_Left', 'sk_eyelid02_Right', 'sk_eyelid03_Left', 'sk_eyelid03_Right', 'sk_eyelid04_Left', 'sk_eyelid04_Right', 'sk_eyelid05_Left', 'sk_eyelid05_Right', 'sk_eyelid06_Left', 'sk_eyelid06_Right', 'sk_eyelid07_Left', 'sk_eyelid07_Right', 'sk_eyelid08_Left', 'sk_eyelid08_Right', 'sk_faceBase', 'sk_inBotLip_Left', 'sk_inBotLip_Middle', 'sk_inBotLip_Right', 'sk_inLip_Left', 'sk_inLip_Right', 'sk_inTopLip_Left', 'sk_inTopLip_Middle', 'sk_inTopLip_Right', 'sk_lip_Left', 'sk_lip_Right', 'sk_nasolabial_Left', 'sk_nasolabial_Middle', 'sk_nasolabial_Right', 'sk_nose_Left', 'sk_nose_Right', 'sk_nostril_Left', 'sk_nostril_Right', 'sk_topLip_Left', 'sk_topLip_Middle', 'sk_topLip_Right']
+
+
+# get the joints associate with a control
+control_joint_map = {}
+
+for joint in joints:
+    controls = cmds.listConnections(joint, type="transform") # search for nodes conenct them
+    if controls:
+        control_joint_map[joint] = controls
+
+# export data in the dictionary as a json file
+# path to save the file 
+file_path = "H:/PixelLandmarks-main/PixelLandmarks-main/landmarks/maya-python/joint_control_data.json"
+
+with open(file_path, "w") as json_file:
+    json.dump(control_joint_map, json_file, indent=4)
+# ---------- Maya output --------------------------
+# data in the file joint-controlRelationship
